@@ -4,77 +4,77 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2020-03-22T16:52:18-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2020-03-22T16:58:57-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2020-03-22T16:52:18-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2020-03-22T16:58:57-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2020-03-22T16:52:18-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2020-03-22T16:58:57-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/authors.html</loc>
-<lastmod>2020-03-22T16:52:18-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2020-03-22T16:58:57-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2020-03-22T16:52:18-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2020-03-22T16:58:57-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/meu-primeiro-classificador.html</loc>
+<loc>/meu-primeiro-classificador.html</loc>
 <lastmod>2020-03-22T12:00:00-03:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/machine-learning.html</loc>
+<loc>/category/machine-learning.html</loc>
 <lastmod>2020-03-22T12:00:00-03:06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/kaggle.html</loc>
+<loc>/tag/kaggle.html</loc>
 <lastmod>2020-03-22T12:00:00-03:06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/classificador.html</loc>
+<loc>/tag/classificador.html</loc>
 <lastmod>2020-03-22T12:00:00-03:06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/primeiros-passos.html</loc>
+<loc>/tag/primeiros-passos.html</loc>
 <lastmod>2020-03-22T12:00:00-03:06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/andre-thiago.html</loc>
+<loc>/author/andre-thiago.html</loc>
 <lastmod>2020-03-22T12:00:00-03:06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
